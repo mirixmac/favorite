@@ -1,4 +1,5 @@
-<span style="color:Green">Clay Making
+
+# <span style="color:Green">Clay Making
 
 Sculpting is one of my favorite passtimes. My favorite clay is sculpty clay, as it is malleable, colorful and iconic. I like to use the colored clay, rather than paint over it, for a more cartoon-like finish.
 # <span style="color:red"> Why Clay

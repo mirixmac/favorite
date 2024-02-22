@@ -9,4 +9,7 @@ Sculpting is one of my favorite passtimes. My favorite clay is sculpty clay, as 
 3. carving tools (anything that will make you more precise or create the texture you'd like)
 4. a regular shmegular oven
 
-   #Some of my creations
+##Some of my creations
+![alt text](clei.jpg)
+
+[follow this step by step](https://www.tiktok.com/t/ZT8EaSncx/)

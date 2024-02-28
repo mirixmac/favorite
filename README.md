@@ -7,11 +7,13 @@ Sculpting is one of my favorite passtimes. My favorite clay is sculpty clay, as 
 2. you can actually use your creations
 3. its meditative
 
-# <span style="color:purple"> Materials
+# <span style="color:purple"> Materials 
 1. sculpty clay
 2. wire for support
 3. carving tools (anything that will make you more precise or create the texture you'd like)
 4. a regular shmegular oven
+Link to purchase materials 
+   [BLICK](https://www.dickblick.com/)
 
 # <span style="color:blue"> Some of My Creations
 ![alt text](clei.jpg)
